@@ -5,7 +5,7 @@ import numpy as np
 
 # Título de la app
 st.title("Black Jack - Asistente virtual")
-st.image("bj.jpg", caption="ML aplicado a Blackjack", use_container_width=True)
+st.image("bj.jpg", caption="ML aplicado a Blackjack")
 
 # Cargar los archivos del modelo
 grid_cv = joblib.load("grid_cv.pkl")
