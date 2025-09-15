@@ -74,7 +74,7 @@ ds_blackjack["plybustbeat_numeric"] = ds_blackjack["plybustbeat"].apply(plybustb
 
 st.title("Black Jack - Asistente virtual")
 
-st.image("bj.jpg", caption="ML aplicado a Blackjack -  Jorge Alonso", use_container_width=True)
+st.image("bj.jpg", caption="ML aplicado a Blackjack", use_container_width=True)
 
 
 #---------------------------------------------------------------------MODELO DE PREDICCIÓN-------------------------------------------------------------
